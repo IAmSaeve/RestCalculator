@@ -1,0 +1,11 @@
+/home/sebastan/Skrivebord/Skole/VS Projects/3. semester/REST-Calculator/RestCalculatorConsumer/bin/Debug/netcoreapp2.1/RestCalculatorConsumer.deps.json
+/home/sebastan/Skrivebord/Skole/VS Projects/3. semester/REST-Calculator/RestCalculatorConsumer/bin/Debug/netcoreapp2.1/RestCalculatorConsumer.runtimeconfig.json
+/home/sebastan/Skrivebord/Skole/VS Projects/3. semester/REST-Calculator/RestCalculatorConsumer/bin/Debug/netcoreapp2.1/RestCalculatorConsumer.runtimeconfig.dev.json
+/home/sebastan/Skrivebord/Skole/VS Projects/3. semester/REST-Calculator/RestCalculatorConsumer/bin/Debug/netcoreapp2.1/RestCalculatorConsumer.dll
+/home/sebastan/Skrivebord/Skole/VS Projects/3. semester/REST-Calculator/RestCalculatorConsumer/bin/Debug/netcoreapp2.1/RestCalculatorConsumer.pdb
+/home/sebastan/Skrivebord/Skole/VS Projects/3. semester/REST-Calculator/RestCalculatorConsumer/obj/Debug/netcoreapp2.1/RestCalculatorConsumer.csprojAssemblyReference.cache
+/home/sebastan/Skrivebord/Skole/VS Projects/3. semester/REST-Calculator/RestCalculatorConsumer/obj/Debug/netcoreapp2.1/RestCalculatorConsumer.csproj.CoreCompileInputs.cache
+/home/sebastan/Skrivebord/Skole/VS Projects/3. semester/REST-Calculator/RestCalculatorConsumer/obj/Debug/netcoreapp2.1/RestCalculatorConsumer.AssemblyInfoInputs.cache
+/home/sebastan/Skrivebord/Skole/VS Projects/3. semester/REST-Calculator/RestCalculatorConsumer/obj/Debug/netcoreapp2.1/RestCalculatorConsumer.AssemblyInfo.cs
+/home/sebastan/Skrivebord/Skole/VS Projects/3. semester/REST-Calculator/RestCalculatorConsumer/obj/Debug/netcoreapp2.1/RestCalculatorConsumer.dll
+/home/sebastan/Skrivebord/Skole/VS Projects/3. semester/REST-Calculator/RestCalculatorConsumer/obj/Debug/netcoreapp2.1/RestCalculatorConsumer.pdb

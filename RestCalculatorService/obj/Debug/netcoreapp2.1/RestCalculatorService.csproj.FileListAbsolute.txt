@@ -1,0 +1,14 @@
+/home/sebastan/Skrivebord/Skole/VS Projects/3. semester/REST-Calculator/RestCalculatorService/bin/Debug/netcoreapp2.1/RestCalculatorService.deps.json
+/home/sebastan/Skrivebord/Skole/VS Projects/3. semester/REST-Calculator/RestCalculatorService/bin/Debug/netcoreapp2.1/RestCalculatorService.runtimeconfig.json
+/home/sebastan/Skrivebord/Skole/VS Projects/3. semester/REST-Calculator/RestCalculatorService/bin/Debug/netcoreapp2.1/RestCalculatorService.runtimeconfig.dev.json
+/home/sebastan/Skrivebord/Skole/VS Projects/3. semester/REST-Calculator/RestCalculatorService/bin/Debug/netcoreapp2.1/RestCalculatorService.dll
+/home/sebastan/Skrivebord/Skole/VS Projects/3. semester/REST-Calculator/RestCalculatorService/bin/Debug/netcoreapp2.1/RestCalculatorService.pdb
+/home/sebastan/Skrivebord/Skole/VS Projects/3. semester/REST-Calculator/RestCalculatorService/obj/Debug/netcoreapp2.1/RestCalculatorService.csprojAssemblyReference.cache
+/home/sebastan/Skrivebord/Skole/VS Projects/3. semester/REST-Calculator/RestCalculatorService/obj/Debug/netcoreapp2.1/RestCalculatorService.csproj.CoreCompileInputs.cache
+/home/sebastan/Skrivebord/Skole/VS Projects/3. semester/REST-Calculator/RestCalculatorService/obj/Debug/netcoreapp2.1/RestCalculatorService.RazorAssemblyInfo.cache
+/home/sebastan/Skrivebord/Skole/VS Projects/3. semester/REST-Calculator/RestCalculatorService/obj/Debug/netcoreapp2.1/RestCalculatorService.RazorAssemblyInfo.cs
+/home/sebastan/Skrivebord/Skole/VS Projects/3. semester/REST-Calculator/RestCalculatorService/obj/Debug/netcoreapp2.1/RestCalculatorService.AssemblyInfoInputs.cache
+/home/sebastan/Skrivebord/Skole/VS Projects/3. semester/REST-Calculator/RestCalculatorService/obj/Debug/netcoreapp2.1/RestCalculatorService.AssemblyInfo.cs
+/home/sebastan/Skrivebord/Skole/VS Projects/3. semester/REST-Calculator/RestCalculatorService/obj/Debug/netcoreapp2.1/RestCalculatorService.RazorTargetAssemblyInfo.cache
+/home/sebastan/Skrivebord/Skole/VS Projects/3. semester/REST-Calculator/RestCalculatorService/obj/Debug/netcoreapp2.1/RestCalculatorService.dll
+/home/sebastan/Skrivebord/Skole/VS Projects/3. semester/REST-Calculator/RestCalculatorService/obj/Debug/netcoreapp2.1/RestCalculatorService.pdb

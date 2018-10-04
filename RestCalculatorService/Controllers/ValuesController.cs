@@ -18,10 +18,16 @@ namespace RestCalculatorService.Controllers
         }
 
         // GET api/values/5
+        // [HttpGet("{id}")]
+        // public ActionResult<string> Get(int id)
+        // {
+        //     return "value";
+        // }
+
         [HttpGet("{id}")]
-        public ActionResult<string> Get(int id)
+        public ActionResult<int> Get(int id)
         {
-            return "value";
+            return id;
         }
 
         // POST api/values
