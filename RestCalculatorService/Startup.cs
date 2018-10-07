@@ -37,7 +37,7 @@ namespace RestCalculatorService
             }
             else
             {
-                app.UseHsts();
+                //app.UseHsts();
             }
 
             //app.UseHttpsRedirection();
